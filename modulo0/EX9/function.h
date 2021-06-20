@@ -1,0 +1,1 @@
+void getFormat(char *a);

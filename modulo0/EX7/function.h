@@ -1,0 +1,1 @@
+int contapalavras(char *a);

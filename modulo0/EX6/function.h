@@ -1,0 +1,1 @@
+int transformar(char *a);

@@ -1,0 +1,1 @@
+void transforma_numeros(char *a, int aux);
